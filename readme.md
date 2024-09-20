@@ -7,10 +7,8 @@
 1. **Clona este repositorio** en tu máquina local 🖥️:
 
    ```bash
-   git clone https://github.com/tu_usuario/nombre_del_repo.git
+   git clone https://github.com/PedroPab/toggle_volumen.git
    ```
-
-   Reemplaza `https://github.com/tu_usuario/nombre_del_repo.git` con la URL de tu repositorio en GitHub.
 
 2. **Instala las dependencias necesarias** ejecutando este comando mágico 🧙‍♂️:
 
