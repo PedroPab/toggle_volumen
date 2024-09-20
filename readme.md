@@ -21,7 +21,7 @@
 1. **Navega al directorio clonado** 🚪:
 
    ```bash
-   cd nombre_del_repo
+   cd toggle_volumen
    ```
 
 2. **Haz que el script sea ejecutable** 🧑‍💻:
